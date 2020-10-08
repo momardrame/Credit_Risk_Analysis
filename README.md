@@ -1,3 +1,5 @@
+<img src="credit_risk.jpg" alt="drawing" width="300"/>
+
 # Credit_Risk_Analysis
 
 ## Project Overview
