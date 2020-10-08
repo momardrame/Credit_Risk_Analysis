@@ -1,6 +1,6 @@
 <img src="credit_risk.jpg" alt="drawing" width="300"/>
 
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Project Overview
 FinTech firms are storming ahead of traditional loan processes. By using the latest 
